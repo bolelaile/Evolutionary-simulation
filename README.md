@@ -1,6 +1,9 @@
 # 生态系统模拟器
 
-生态系统模拟器是一个简单的Python项目，使用Matplotlib库来模拟草食动物（Herbivores）和捕食者（Predators）在一个二维环境中的动态互动。该模拟包括食物生成、生物移动、觅食、繁殖、体力管理等特性，并通过实时动画展示这些过程。
+生态系统模拟器是一个简单的Python项目，使用Matplotlib库来模拟草食动物（Herbivores）和捕食者（Predators）在一个二维环境中的动态互动。该模拟包括食物生成、生物移动、觅食、繁殖、体力管理等特性，并通过实时动画展示这些过程。  
+仅仅是个无聊时玩玩的小玩意  
+从来没考虑过代码结构问题
+（后续可能会考虑吧）
 
 <!-- PROJECT SHIELDS -->
 
@@ -25,14 +28,15 @@
   </p>
 
 </p>
-
-本篇README.md面向开发者
-
-
-
+ <p align="center">
+  本篇README.md面向开发者
+</p>
 
 
-###### 开发前的配置要求
 
-1. Python 3.10
-2. Matplotlib 
+ <p align="center">
+开发前的配置要求
+
+  1. Python 3.10
+  2. Matplotlib 
+</p>
